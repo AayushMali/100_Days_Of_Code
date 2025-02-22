@@ -1,23 +1,18 @@
-# 100 Days of Code Challenge
+100 Days of Code Challenge
+Welcome to my 100 Days of Code journey! This repo tracks my daily progress as I improve my Web Development and Python skills.
 
-Welcome to my 100 Days of Code journey! This repository contains the tasks, projects, and challenges I will be working on over the next 100 days to improve my coding skills.
+🚀 What is 100 Days of Code?
+It’s a challenge to code for 1 hour every day for 100 days. Throughout this journey, I’ll be tackling coding problems, building projects, and diving deeper into web and Python development.
 
-## What is 100 Days of Code?
-
-The 100 Days of Code challenge is a commitment to code for at least one hour every day for 100 consecutive days. It's a great way to build consistency and make significant progress in programming. Throughout this journey, I will be learning new concepts, building projects, solving problems, and documenting my progress.
-
-## Goals
-
-- Enhance my knowledge of various programming languages and technologies
-- Solve coding challenges on platforms like LeetCode and Codewars
-- Revise and deepen my understanding of JavaScript, React, Express, and other web development frameworks
-- Build personal projects and contribute to open-source
-
-## Progress Tracking
-
-I will be logging my daily progress here. Each day I will:
-
-1. Complete a coding task or project.
-2. Share a brief summary of what I learned or worked on.
-
-Stay tuned for daily updates on my progress, and feel free to join me in this coding adventure!
+🎯 Goals:
+Web Dev: Master advanced JS, React, Express, and full-stack development.
+Python: Strengthen Python fundamentals, build backend apps, and work on data projects.
+📝 Plan:
+Days 1-10: Refactor and improve existing projects on GitHub.
+Days 11-30: Dive into advanced topics (React hooks, Express.js, MongoDB).
+Days 31-50: Build full-stack apps and explore Python frameworks (Flask/Django).
+Days 51-70: Contribute to open-source and work on personal projects.
+Days 71-100: Deep dive into new tools, build a final project, and deploy.
+📈 Progress:
+Each day, I'll document the task I worked on, what I learned, and my project updates.
+Feel free to follow along and contribute to this coding adventure!
